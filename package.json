@@ -1,0 +1,11 @@
+{
+  "name": "xhs-notes-export",
+  "version": "1.0.0",
+  "description": "Export XHS note cards as PNG via puppeteer-core",
+  "scripts": {
+    "export": "node export-cards.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
